@@ -1,0 +1,21 @@
+[submodule "PHPCSExtra"]
+	path = PHPCSExtra
+	url = git@github.com:PHPCSStandards/PHPCSExtra.git
+[submodule "PHPCSUtils"]
+	path = PHPCSUtils
+	url = git@github.com:PHPCSStandards/PHPCSUtils.git
+[submodule "PHPCompatibility"]
+	path = PHPCompatibility
+	url = git@github.com:PHPCompatibility/PHPCompatibility.git
+[submodule "PHPCompatibilityWP"]
+	path = PHPCompatibilityWP
+	url = git@github.com:PHPCompatibility/PHPCompatibilityWP.git
+[submodule "phpcs-variable-analysis"]
+	path = phpcs-variable-analysis
+	url = git@github.com:sirbrillig/phpcs-variable-analysis.git
+[submodule "WordPress-Coding-Standards"]
+	path = WordPress-Coding-Standards
+	url = https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards.git
+[submodule "VIP-Coding-Standards"]
+	path = VIP-Coding-Standards
+	url = git@github.com:Automattic/VIP-Coding-Standards.git
